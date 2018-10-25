@@ -1,0 +1,9 @@
+﻿  Ack.cpp
+  Frame.cpp
+  Message.cpp
+  Node.cpp
+z:\code\cnt5008_80211\wlan\wlan\node.cpp(97): error C2228: left of '.lock' must have class/struct/union
+z:\code\cnt5008_80211\wlan\wlan\node.cpp(140): error C3861: 'GetAndClearReceivedFrame': identifier not found
+  Simulation.cpp
+z:\code\cnt5008_80211\wlan\wlan\simulation.cpp(19): error C2512: 'Node::Node': no appropriate default constructor available
+  Generating Code...
